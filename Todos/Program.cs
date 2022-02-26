@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Todos.Data;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<TodosContext>(options => options
-                .UseMySql("Server=localhost;Port=3366;Password=Abrilow@13;User=root; Database=my_Todo;",
+                .UseMySql("Server=localhost;Port=3366;Password=******;User=root; Database=my_Todo;",
                     new MySqlServerVersion(new Version(8, 0, 11))));
 builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<TodosContext>();
 // Add services to the container.
