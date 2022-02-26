@@ -55,7 +55,7 @@ You can get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Abreham-13/Social_Net
+   git clone https://github.com/Abreham-13/Todos
    ```
 2. open the project VS And Install below listed dependency in nuget packege
    - pomelo.entityframeworkcore.mysql
