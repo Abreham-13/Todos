@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
     Abreham Gessesse
 
 
-Project Link: [https://github.com/Abreham-13/Social_Net)
+Project Link: [https://github.com/Abreham-13/Todos)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
